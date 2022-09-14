@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+float s,h,d;
+clrscr();
+       printf("enter any number");
+       scanf("%f",&s);
+       printf("you have entred number is %f\n",s);
+       printf("enter any number");
+       scanf("%f",&h);
+       printf("you have entred number is %f\n",h);
+       printf("enter any number");
+       scanf("%f",&d);
+       printf("you have entred number is %f\n",d);
+getch();
+}

@@ -1,0 +1,31 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int m1,m2,m3,m4,m5;
+clrscr();
+      printf("enter english marks");
+      scanf("%d",&m1);
+      printf("you have entered english marks is %d\n",m1);
+      printf("enter account marks");
+      scanf("%d",&m2);
+      printf("you have entered account marks is %d\n",m2);
+      printf("enter stat marks");
+      scanf("%d",&m3);
+      printf("you have entered stat marks is %d\n",m3);
+      printf("enter gujrati marks");
+      scanf("%d",&m4);
+      printf("you have entered gujrati marks is %d\n",m4);
+      printf("enter sp marks");
+      scanf("%d",&m5);
+      printf("you have entered sp marks is %d\n",m5);
+
+
+
+
+
+
+
+
+getch();
+}

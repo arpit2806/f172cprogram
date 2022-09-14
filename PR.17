@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+char j,t;
+clrscr();
+      printf("enter any character");
+      scanf("%c",&j);
+      printf("you have entereda character is %c\n",j);
+      scanf("%c",&t);
+      printf("you have entered character is %c\n",t);
+getch();
+}
